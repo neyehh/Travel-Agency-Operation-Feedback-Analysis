@@ -11,10 +11,14 @@ Findings from this analysis will help the travel agency enhance customer experie
 Although the travel agency collects valuable operational and customer data, it currently lacks a structured way to analyze and interpret this information. As a result, important patterns related to customer preferences, booking trends, and service performance may go unnoticed.
 
 Without clear insights, the agency may struggle to answer important questions such as:
-. Which destinations and trip types are most popular among customers?
-. Are there certain times of the year when bookings increase or decline?
-. Which travel agents contribute the most to overall revenue?
-. How satisfied are customers with their travel experiences?
-. Does the loyalty program influence booking behavior or customer satisfaction?
+ Which destinations and trip types are most popular among customers?
+ 
+ Are there certain times of the year when bookings increase or decline?
+ 
+ Which travel agents contribute the most to overall revenue?
+ 
+ How satisfied are customers with their travel experiences?
+ 
+ Does the loyalty program influence booking behavior or customer satisfaction?
 
 By addressing these questions through data analysis, the agency can better understand its customers and operations. This will allow the business to improve services, allocate resources more effectively, and strengthen customer relationships.
