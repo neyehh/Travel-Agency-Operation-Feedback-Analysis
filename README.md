@@ -11,6 +11,7 @@ Findings from this analysis will help the travel agency enhance customer experie
 Although the travel agency collects valuable operational and customer data, it currently lacks a structured way to analyze and interpret this information. As a result, important patterns related to customer preferences, booking trends, and service performance may go unnoticed.
 
 Without clear insights, the agency may struggle to answer important questions such as:
+
  Which destinations and trip types are most popular among customers?
  
  Are there certain times of the year when bookings increase or decline?
@@ -22,3 +23,10 @@ Without clear insights, the agency may struggle to answer important questions su
  Does the loyalty program influence booking behavior or customer satisfaction?
 
 By addressing these questions through data analysis, the agency can better understand its customers and operations. This will allow the business to improve services, allocate resources more effectively, and strengthen customer relationships.
+# Data Preparation
+Before beginning the analysis, the datasets need to be carefully reviewed and prepared to ensure the results are accurate and reliable. Data preparation is an important step because even small errors or inconsistencies can affect the quality of the analysis.
+First, the datasets will be cleaned by identifying and removing duplicate records and checking for missing or incomplete values. Any inconsistencies in formatting—such as variations in trip types, region names, or customer categories—will also be standardized.
+Next, the data types will be verified. For example, booking dates must be formatted correctly as dates, while fields such as revenue and ratings must be stored as numeric values. This ensures that calculations and trend analysis can be performed correctly.
+The datasets will also be checked to make sure the relationships between them are accurate. Customer IDs, trip IDs, and agent IDs must match across different tables so that bookings, reviews, and customer information can be connected properly.
+Finally, additional fields may be created to support the analysis. For example, extracting the month from booking dates will help identify monthly trends, and categorizing trips by season will help analyze seasonal travel patterns.
+Once these preparation steps are completed, the data will be ready for analysis using pivot tables, charts, and other visualization tools that will highlight key trends and insights.
